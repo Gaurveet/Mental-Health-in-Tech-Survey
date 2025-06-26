@@ -64,7 +64,7 @@ Mental health support in the tech industry remains inconsistent and stigmatized.
 
 ### 📂 **Files Included**
 
-* `survey.csv` – Original cleaned dataset
+* `final_cleaned_mental_health_survey.csv` – Original cleaned dataset
 * `Mental_Health_EDA.ipynb` – Jupyter notebook with full EDA
 * `Mental_Health_in_Tech_Survey.pptx` – PowerPoint presentation
 * `README.md` – Project documentation
